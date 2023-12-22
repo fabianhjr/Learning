@@ -1,7 +1,5 @@
 package systems.fabian
 
-import scala.util.Try
-
 object AoC_2023_1 extends App:
   val lines = scala.io.Source.stdin.getLines().toList
 
